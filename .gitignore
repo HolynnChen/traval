@@ -1,0 +1,10 @@
+# 源码与数据（含明文行程）—— 不进入仓库
+src/
+data/
+tools/
+build/
+shots/
+ningbo-trip-2026.html
+.DS_Store
+*.log
+node_modules/
